@@ -66,7 +66,7 @@ All figures produced by executing the notebooks, not assumed.
   intent was chosen (notebook 02 shows the top matching patterns), but they don't generalise to
   unseen vocabulary.
 - **Takeaway**: scaling this approach means more patterns per intent or learned intent embeddings, 
-  the natural step up to modern NLU.
+  the natural step up to modern "NLU".
 
 ## Tech Stack
 
