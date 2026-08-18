@@ -2,9 +2,9 @@
 
 A beginner-level **NLP-fundamentals** project: a retrieval-based intent chatbot. It matches a user
 message to the closest known intent with TF-IDF cosine similarity and replies with that intent's
-response, with a confidence threshold so it falls back gracefully on out-of-scope messages.
+response, with a confidence threshold so it falls back gracefully on out-of-scope messages..
 
-## Problem Statement
+## Problem Statement!
 
 Build a customer-service chatbot without any neural network: given a user message, identify its
 *intent* (greeting, hours, payments, returns, account, …) and respond appropriately, or fall back
