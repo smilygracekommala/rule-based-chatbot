@@ -3,3 +3,4 @@ pandas
 numpy
 matplotlib
 scikit-learn
+so these are all the requirements for this project
